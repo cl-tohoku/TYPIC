@@ -1,0 +1,28 @@
+{
+    "templates": {
+        "CA1": "It is unclear why {x} causes a good result of {y}",
+        "CA2": "It is unclear why {x} causes a bad result of {y}",
+        "CA3": "It is unclear why {x} suppresses a good result of {y}",
+        "CA4": "It is unclear why {x} suppresses a bad result of {y}",
+        "VAL1": "It is unclear why {x} is good for {y}",
+        "VAL2": "It is unclear why {x} is bad for {y}",
+        "VAL3": "It is unclear why {x} should be {y}",
+        "VAL4": "It is unclear why {x} should not be {y}",
+        "CLS1": "It is unclear why {x} has the property of {y}",
+        "CLS2": "It is unclear why {x} and {y} are same/similar in terms of {z}",
+        "PR1": "It is unclear why {x} can be feasible",
+        "EX1": "It lacks the specificity of what exactly is an example of {x}",
+        "EX2": "It lacks the specificity regarding the extent to which {x} {y}",
+        "EX3": "It is a limiting situation that {x}",
+        "CMP1": "It lacks an explanation of why {x} should be preferred over {y}",
+        "CMP2": "It lacks an explanation of why {x} is a better method to realize {y} instead of {z}",
+        "LR1": "It is unclear why a premise {x} supports a claim {y}",
+        "CLR1": "It is hard to understand what the statement {x} is means",
+        "CLR2": "There is a specific example for {x} , but it lacks a generalized justification",
+        "GR1": "It is unclear how the statement {x} relates to the topic",
+        "GR2": "It is not a direct objection to the government’s claim {x} to say {y}",
+        "GR3": "The statement {x} fails to consider {y} , which is the definition of the government side",
+        "GS1": "It is unclear why the opposition’s claim {x} is superior to the government’s claim of {y}",
+        "GS2": "It is expected that the government will object that {x}"
+    }
+}
